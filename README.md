@@ -9,3 +9,8 @@
 ## 其他说明
 
 国内可能出现npm无法现在的问题 建议使用 yarn 不推荐cnpm
+
+## yarn使用方法
+
+    yarn instrall
+    yarn serve
